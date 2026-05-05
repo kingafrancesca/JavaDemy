@@ -8,10 +8,10 @@ JavaDemy is an interactive desktop application designed to teach Java programmin
 
 ## Features
 
-- **Structured Lessons** — 14 topic-based lessons covering Java fundamentals, from variables and loops to OOP and collections. Each lesson is divided into steps with formatted content and runnable code examples.
-- **Quizzes** — Multiple-choice quizzes per lesson with randomized questions and instant feedback. Includes a total review quiz across all studied material.
-- **Coding Exercises** — Hands-on exercises with a built-in code editor, real-time compilation, and automated test runner. 
-- **Progress Tracking** — Per-topic progress bars, an overall completion ring, and a login streak tracker.
+- **Structured Lessons** - 14 topic-based lessons covering Java fundamentals, from variables and loops to OOP and collections. Each lesson is divided into steps with formatted content and runnable code examples.
+- **Quizzes** - Multiple-choice quizzes per lesson with randomized questions and instant feedback. Includes a total review quiz across all studied material.
+- **Coding Exercises** - Hands-on exercises with a built-in code editor, real-time compilation, and automated test runner. 
+- **Progress Tracking** - Per-topic progress bars, an overall completion ring, and a login streak tracker.
 
 ---
 
